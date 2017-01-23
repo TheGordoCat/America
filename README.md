@@ -1,1 +1,1 @@
-# America
+# It's 2014 and America is under attack. Ebola is spreading while terrorists are on the loose. It's your job to eliminate the enemies by clicking on them all the while dodging the dangerous disease by using WASD. Every click is 100 Freedom Points, but the job gets harder the more you enforce democracy.
